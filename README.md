@@ -1,6 +1,6 @@
 **Understanding LoRA Layers in Detail:**
 
-file.md
+[link](file.md)
 
 **1. Introduction to LoRA:**
 
