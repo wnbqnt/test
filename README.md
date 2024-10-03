@@ -1,5 +1,7 @@
 **Understanding LoRA Layers in Detail:**
 
+file.md
+
 **1. Introduction to LoRA:**
 
 LoRA (Low-Rank Adaptation) is a technique designed to efficiently fine-tune large pre-trained language models by reducing the number of trainable parameters. Instead of updating all the parameters of the model during fine-tuning, LoRA introduces additional trainable layers that approximate the weight updates using low-rank matrices. This approach allows for significant parameter savings while maintaining performance.
